@@ -58,11 +58,11 @@ Claude Code Dashboard provides a centralized view of all your Claude Code data, 
 - Environment variable inspection
 
 ### Tasks
-- **Todos Tab** - Browse all 649+ todo files with status filtering
-- **Plans Tab** - View all 17+ plan markdown files
+- **Todos Tab** - Browse all todo files with status filtering
+- **Plans Tab** - View all plan markdown files
 
 ### Extensions
-- Custom slash commands (15+ commands)
+- Custom slash commands
 - Agent configurations
 - Skill definitions
 
@@ -73,7 +73,7 @@ Claude Code Dashboard provides a centralized view of all your Claude Code data, 
 - Thinking mode settings
 
 ### Debug
-- Browse 50+ debug log files
+- Browse debug log files
 - Syntax-highlighted log viewer
 - File size and timestamp info
 
