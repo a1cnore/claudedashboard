@@ -9,7 +9,7 @@ A comprehensive admin interface for debugging, inspecting, and analyzing your Cl
 Claude Code Dashboard provides a centralized view of all your Claude Code data, including:
 
 - **Usage Analytics** - Track API costs, token consumption, and activity patterns
-- **Project Management** - Browse all 134+ tracked projects with their configurations
+- **Project Management** - Browse all tracked projects with their configurations
 - **Conversation History** - Search and review past sessions and message threads
 - **Task Tracking** - View todos and plans across all projects
 - **Configuration** - Inspect global settings, permissions, and MCP servers
