@@ -2,6 +2,8 @@
 
 A comprehensive admin interface for debugging, inspecting, and analyzing your Claude Code usage. Built with Next.js 15 and shadcn/ui.
 
+![Dashboard Screenshot](docs/dashboard-screenshot.png)
+
 ## Overview
 
 Claude Code Dashboard provides a centralized view of all your Claude Code data, including:
